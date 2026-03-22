@@ -3,12 +3,33 @@
     <title>Games on Linux</title>
     <link href="https://github.com/annyedesign/gamesonlinux/feed.xml" rel="self" />
     <link href="https://github.com/annyedesign/gamesonlinux" />
-    <updated>2026-03-22T15:24:52+01:00</updated>
+    <updated>2026-03-22T16:21:47+01:00</updated>
     <author>
         <name>annyedesign</name>
     </author>
     <id>https://github.com/annyedesign/gamesonlinux</id>
 
+    <entry>
+        <title>How to play Pharaon on Linux</title>
+        <author>
+            <name>annyedesign</name>
+        </author>
+        <link href="https://github.com/annyedesign/gamesonlinux/how-to-play-pharaon-on-linux.html"/>
+        <id>https://github.com/annyedesign/gamesonlinux/how-to-play-pharaon-on-linux.html</id>
+
+        <updated>2026-03-22T15:46:36+01:00</updated>
+            <summary type="html">
+                <![CDATA[
+                    Today we will learn how to install and play Pharaon on Linux. Purchase the game on GOG.com
+                ]]>
+            </summary>
+        <content type="html">
+            <![CDATA[
+                <p>Today we will learn how to install and play Pharaon on Linux.</p>
+<p>Purchase the game on GOG.com</p>
+            ]]>
+        </content>
+    </entry>
     <entry>
         <title>How to play Zeus + Poseidon on Linux</title>
         <author>
@@ -16,6 +37,7 @@
         </author>
         <link href="https://github.com/annyedesign/gamesonlinux/how-to-play-zeus-poseidon-on-linux.html"/>
         <id>https://github.com/annyedesign/gamesonlinux/how-to-play-zeus-poseidon-on-linux.html</id>
+            <category term="City builder"/>
 
         <updated>2026-03-22T15:10:36+01:00</updated>
             <summary type="html">
