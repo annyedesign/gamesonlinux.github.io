@@ -1,0 +1,27 @@
+{
+    "version": "https://jsonfeed.org/version/1",
+    "title": "Games on Linux",
+    "description": "",
+    "home_page_url": "https://annyedesign.github.io/gamesonlinux",
+    "feed_url": "https://annyedesign.github.io/gamesonlinux/feed.json",
+    "user_comment": "",
+    "author": {
+        "name": "annyedesign"
+    },
+    "items": [
+        {
+            "id": "https://annyedesign.github.io/gamesonlinux/how-to-play-diablo-immortal-on-linux.html",
+            "url": "https://annyedesign.github.io/gamesonlinux/how-to-play-diablo-immortal-on-linux.html",
+            "title": "How to play Diablo Immortal on Linux",
+            "summary": "Hello, today we will learn how to play Diablo Immortal on Linux.",
+            "content_html": "<p>Hello, today we will learn how to play Diablo Immortal on Linux.</p>",
+            "author": {
+                "name": "annyedesign"
+            },
+            "tags": [
+            ],
+            "date_published": "2026-03-22T14:33:44+01:00",
+            "date_modified": "2026-03-22T14:33:50+01:00"
+        }
+    ]
+}

@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom" xmlns:media="http://search.yahoo.com/mrss/">
+    <title>Games on Linux</title>
+    <link href="https://annyedesign.github.io/gamesonlinux/feed.xml" rel="self" />
+    <link href="https://annyedesign.github.io/gamesonlinux" />
+    <updated>2026-03-22T14:33:50+01:00</updated>
+    <author>
+        <name>annyedesign</name>
+    </author>
+    <id>https://annyedesign.github.io/gamesonlinux</id>
+
+    <entry>
+        <title>How to play Diablo Immortal on Linux</title>
+        <author>
+            <name>annyedesign</name>
+        </author>
+        <link href="https://annyedesign.github.io/gamesonlinux/how-to-play-diablo-immortal-on-linux.html"/>
+        <id>https://annyedesign.github.io/gamesonlinux/how-to-play-diablo-immortal-on-linux.html</id>
+
+        <updated>2026-03-22T14:33:44+01:00</updated>
+            <summary type="html">
+                <![CDATA[
+                    Hello, today we will learn how to play Diablo Immortal on Linux.
+                ]]>
+            </summary>
+        <content type="html">
+            <![CDATA[
+                <p>Hello, today we will learn how to play Diablo Immortal on Linux.</p>
+            ]]>
+        </content>
+    </entry>
+</feed>
