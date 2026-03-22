@@ -2,16 +2,16 @@
     "version": "https://jsonfeed.org/version/1",
     "title": "Games on Linux",
     "description": "",
-    "home_page_url": "https://gamesonlinux.github.io",
-    "feed_url": "https://gamesonlinux.github.io/feed.json",
+    "home_page_url": "https://annyedesign.github.io/gamesonlinux.github.io",
+    "feed_url": "https://annyedesign.github.io/gamesonlinux.github.io/feed.json",
     "user_comment": "",
     "author": {
         "name": "annyedesign"
     },
     "items": [
         {
-            "id": "https://gamesonlinux.github.io/how-to-play-pharaon-on-linux.html",
-            "url": "https://gamesonlinux.github.io/how-to-play-pharaon-on-linux.html",
+            "id": "https://annyedesign.github.io/gamesonlinux.github.io/how-to-play-pharaon-on-linux.html",
+            "url": "https://annyedesign.github.io/gamesonlinux.github.io/how-to-play-pharaon-on-linux.html",
             "title": "How to play Pharaon on Linux",
             "summary": "Today we will learn how to install and play Pharaon on Linux. Purchase the game on GOG.com",
             "content_html": "<p>Today we will learn how to install and play Pharaon on Linux.</p>\n<p>Purchase the game on GOG.com</p>",
@@ -24,8 +24,8 @@
             "date_modified": "2026-03-22T16:21:47+01:00"
         },
         {
-            "id": "https://gamesonlinux.github.io/how-to-play-zeus-poseidon-on-linux.html",
-            "url": "https://gamesonlinux.github.io/how-to-play-zeus-poseidon-on-linux.html",
+            "id": "https://annyedesign.github.io/gamesonlinux.github.io/how-to-play-zeus-poseidon-on-linux.html",
+            "url": "https://annyedesign.github.io/gamesonlinux.github.io/how-to-play-zeus-poseidon-on-linux.html",
             "title": "How to play Zeus + Poseidon on Linux",
             "summary": "Today we will learn how to install and play Zeus + Poseidon on Linux. First step: purchase the updated version on GOG.com",
             "content_html": "<p>Today we will learn how to install and play Zeus + Poseidon on Linux. First step: purchase the updated version on GOG.com</p>",
@@ -39,8 +39,8 @@
             "date_modified": "2026-03-22T15:54:06+01:00"
         },
         {
-            "id": "https://gamesonlinux.github.io/how-to-play-diablo-immortal-on-linux.html",
-            "url": "https://gamesonlinux.github.io/how-to-play-diablo-immortal-on-linux.html",
+            "id": "https://annyedesign.github.io/gamesonlinux.github.io/how-to-play-diablo-immortal-on-linux.html",
+            "url": "https://annyedesign.github.io/gamesonlinux.github.io/how-to-play-diablo-immortal-on-linux.html",
             "title": "How to play Diablo Immortal on Linux",
             "summary": "Hello, today we will learn how to play Diablo Immortal on Linux.",
             "content_html": "<p>Hello, today we will learn how to play Diablo Immortal on Linux.</p>",
