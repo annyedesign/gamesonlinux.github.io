@@ -1,21 +1,21 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom" xmlns:media="http://search.yahoo.com/mrss/">
     <title>Games on Linux</title>
-    <link href="https://github.com/annyedesign/gamesonlinux/feed.xml" rel="self" />
-    <link href="https://github.com/annyedesign/gamesonlinux" />
+    <link href="https://gamesonlinux.github.io/feed.xml" rel="self" />
+    <link href="https://gamesonlinux.github.io" />
     <updated>2026-03-22T16:21:47+01:00</updated>
     <author>
         <name>annyedesign</name>
     </author>
-    <id>https://github.com/annyedesign/gamesonlinux</id>
+    <id>https://gamesonlinux.github.io</id>
 
     <entry>
         <title>How to play Pharaon on Linux</title>
         <author>
             <name>annyedesign</name>
         </author>
-        <link href="https://github.com/annyedesign/gamesonlinux/how-to-play-pharaon-on-linux.html"/>
-        <id>https://github.com/annyedesign/gamesonlinux/how-to-play-pharaon-on-linux.html</id>
+        <link href="https://gamesonlinux.github.io/how-to-play-pharaon-on-linux.html"/>
+        <id>https://gamesonlinux.github.io/how-to-play-pharaon-on-linux.html</id>
 
         <updated>2026-03-22T15:46:36+01:00</updated>
             <summary type="html">
@@ -35,8 +35,8 @@
         <author>
             <name>annyedesign</name>
         </author>
-        <link href="https://github.com/annyedesign/gamesonlinux/how-to-play-zeus-poseidon-on-linux.html"/>
-        <id>https://github.com/annyedesign/gamesonlinux/how-to-play-zeus-poseidon-on-linux.html</id>
+        <link href="https://gamesonlinux.github.io/how-to-play-zeus-poseidon-on-linux.html"/>
+        <id>https://gamesonlinux.github.io/how-to-play-zeus-poseidon-on-linux.html</id>
             <category term="City builder"/>
 
         <updated>2026-03-22T15:10:36+01:00</updated>
@@ -56,8 +56,8 @@
         <author>
             <name>annyedesign</name>
         </author>
-        <link href="https://github.com/annyedesign/gamesonlinux/how-to-play-diablo-immortal-on-linux.html"/>
-        <id>https://github.com/annyedesign/gamesonlinux/how-to-play-diablo-immortal-on-linux.html</id>
+        <link href="https://gamesonlinux.github.io/how-to-play-diablo-immortal-on-linux.html"/>
+        <id>https://gamesonlinux.github.io/how-to-play-diablo-immortal-on-linux.html</id>
 
         <updated>2026-03-22T14:33:44+01:00</updated>
             <summary type="html">
